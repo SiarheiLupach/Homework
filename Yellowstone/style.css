@@ -1,20 +1,20 @@
 body {
-    background-color: #615b59;
+    background-color: #595f61;
     padding: 10px;
     padding-left: 450px;
     padding-top: 40px;
 }
 
 .Text {
-    border-bottom: solid 5px #ad9aff;
-    border-left: solid 5px #d29aff;
-    background-color: #9a5bce;
+    border-bottom: solid 5px #9aebff;
+    border-left: solid 5px #9ae2ff;
+    background-color: #5baace;
     color: #f8fffa;
     width: 45%;
     padding: 10px;
 }
 
 .img {
-    border: double 10px #934abd;
+    border: double 10px #4aa0bd;
     padding: 0px;
 }
